@@ -12,11 +12,11 @@ Motivation
 As the C# version of MiniLight [linked](http://www.lomont.org/Software/#GraphicsDemos)
 on the [MiniLight page](http://www.hxa.name/minilight/) throws an StackOverflowException
 after a while (sometimes as soon as on the third iteration), I thought I'd
-give it a try and rewrite the code from scratch. I will be using the C code as a reference.
+give it a try and rewrite the code from scratch. I will be using the C/C++ code as a reference.
 
 Features
 --------
-Right now I'm aiming at the same feature set as the C version of MiniLight but I'm going to
+Right now I'm aiming at the same feature set as the C/C++ version of MiniLight but I'm going to
 add a GUI that will at least show the current iteration of the render in progress.
 
 Tools of the trade
